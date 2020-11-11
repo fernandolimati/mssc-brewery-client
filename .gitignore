@@ -139,3 +139,8 @@ Desktop.ini
 ######################
 .eslintcache
 /.idea/
+src/main/resources/static/
+src/main/resources/templates/
+target/classes/application.properties
+target/generated-sources/
+target/generated-test-sources/
